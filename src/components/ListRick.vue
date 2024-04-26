@@ -6,7 +6,7 @@ const qtdeEp = character.episode.length;
 <template>
 <div class="col-md-4">
     <div class="card mb-3 p-2">
-        <div class="card-body" style="text-align: center;">
+        <div class="card-body">
             <img :src="character.image" alt="">
             <p class="card-title text-center">Name: {{ character.name }}</p>
             <p class="card-title text-center">Gender: {{ character.gender }}</p>
@@ -26,6 +26,6 @@ const qtdeEp = character.episode.length;
 
     .card-body {
         font-family:'Times New Roman', Times, serif;
-        font-size: 17px;
+        font-size: 17px;    
     }
 </style>
