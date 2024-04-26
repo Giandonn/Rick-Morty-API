@@ -30,13 +30,4 @@ import {ref} from 'vue'
   </div>
 </template>
 <style>
-footer{
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 40px;
-}
 </style>
