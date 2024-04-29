@@ -1,6 +1,6 @@
 <template>
   <div class="infos">
-    <h5>Lucas Raineri Giandon</h5>
+    <h5>Lucas Raineri Giandon - RA - 1982251</h5>
     <h5>Análise e Desenvolvimento de Sistemas</h5>
     <h5>Unimar - Universidade de Marília</h5>
         <a href="https://github.com/Giandonn" class="text-decoration-none">
