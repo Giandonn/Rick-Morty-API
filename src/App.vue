@@ -3,7 +3,7 @@ import {ref} from 'vue'
 </script>
 
 <template>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark border-bottom border-body">
+  <nav class="navbar navbar-expand-lg navbar bg-light border-bottom border-body">
     <div class="container-fluid">
       
       <router-link class="navbar-brand" to="/">Rick and Morty</router-link>
