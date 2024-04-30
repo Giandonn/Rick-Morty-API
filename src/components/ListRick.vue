@@ -25,7 +25,7 @@ const qtdeEp = character.episode.length;
     }
 
     .card-body {
-        font-family:'Times New Roman', Times, serif;
-        font-size: 17px;    
+        font-size: 17px;
+        font-weight: bold;    
     }
 </style>
